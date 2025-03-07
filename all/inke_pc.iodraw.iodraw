@@ -28,6 +28,9 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-10" value="音视频处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="310" y="130" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MlMynfUiaJWUvbclM68T-11" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

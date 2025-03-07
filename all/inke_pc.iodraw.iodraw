@@ -22,7 +22,7 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-8" value="三方封装(pub)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="30" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MlMynfUiaJWUvbclM68T-9" value="路由业务页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
+        <mxCell id="MlMynfUiaJWUvbclM68T-9" value="业务路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="180" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MlMynfUiaJWUvbclM68T-10" value="音视频处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
@@ -46,7 +46,7 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-16" value="业务路由" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="450" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MlMynfUiaJWUvbclM68T-17" value="动画" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MlMynfUiaJWUvbclM68T-17" value="音视频处理（zego）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="220" height="150" as="geometry" />
         </mxCell>
       </root>

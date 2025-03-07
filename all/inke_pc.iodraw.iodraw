@@ -41,7 +41,10 @@
           <mxGeometry x="70" y="450" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MlMynfUiaJWUvbclM68T-15" value="动画" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="220" height="150" as="geometry" />
+          <mxGeometry x="340" y="450" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MlMynfUiaJWUvbclM68T-16" value="动画" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

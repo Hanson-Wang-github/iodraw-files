@@ -25,6 +25,9 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-9" value="路由业务页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="180" y="130" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MlMynfUiaJWUvbclM68T-10" value="音视频处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
+          <mxGeometry x="310" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

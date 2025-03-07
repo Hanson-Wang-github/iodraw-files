@@ -19,8 +19,11 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-7" value="插件通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="430" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MlMynfUiaJWUvbclM68T-8" value="动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
+        <mxCell id="MlMynfUiaJWUvbclM68T-8" value="三方封装(pub)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="30" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MlMynfUiaJWUvbclM68T-9" value="动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

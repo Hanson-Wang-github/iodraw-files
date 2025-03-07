@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MlMynfUiaJWUvbclM68T-2" value="映客直播伴侣" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="10" width="540" height="230" as="geometry" />
+          <mxGeometry x="70" y="10" width="540" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MlMynfUiaJWUvbclM68T-4" value="动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
           <mxGeometry x="30" y="50" width="90" height="40" as="geometry" />

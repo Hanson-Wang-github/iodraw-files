@@ -7,8 +7,8 @@
         <mxCell id="MlMynfUiaJWUvbclM68T-2" value="映客直播伴侣" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="550" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="MlMynfUiaJWUvbclM68T-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="MlMynfUiaJWUvbclM68T-4" value="动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="MlMynfUiaJWUvbclM68T-2">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
